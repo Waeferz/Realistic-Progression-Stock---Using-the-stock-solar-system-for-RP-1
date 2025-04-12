@@ -4,6 +4,8 @@ Realistic Progression Stock is an experimental modification of RP-1 (Realistic P
 
 THIS MODIFICATION OF RP-1 (Realistic Progression One) IS HIGHLY EXPERIMENTAL-EXPECT BUGS-(As of writing this this mod may not work at all as I haven't properly tested it.)
 
+IFYOU ENCOUNTER BUGS PLEASE REPORT THEM TO-
+
 THIS MOD ALTERS ALMOST ALL CONTRACTS TO FIT AROUND THE STOCK SYSTEM (Specifically at 10-10.625x scale, but smaller multipliers and the original stock system could work, Just Unbalanced)
 AS ORIGINAL RP-1 REQUIRES RSS AND THIS USES THE STOCK SYSTEM MANY OUTER PLANET CONTRACTS REQUIRE OPM AND MPE (Outer Planets Mod and Minor Planets Expansion)
 
