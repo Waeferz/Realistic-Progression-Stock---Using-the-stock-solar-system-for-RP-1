@@ -11,4 +11,4 @@ AS ORIGINAL RP-1 REQUIRES RSS AND THIS USES THE STOCK SYSTEM MANY OUTER PLANET C
 
 Currently all that has been done is the stock RP-1 contracts being converted to the Kerbol Systems counterparts (and where there isn't an counterpart I used a similar/fitting body either from the looks or size e.g. Tal from OPM
 
-As Stated before this mod of RP-1 requires OPM and MPE, It also Requires all the requirements of RP-1 and RO/RP-1 Express Install (Excluding RSS and Parallax 2.0 as Continued is more Optimised and relaiable for stock)
+As Stated before this mod of RP-1 requires OPM and MPE, It also Requires all the requirements of RP-1 and RO/RP-1 Express Install (Excluding RSS and Parallax 2.0 as Continued is more Optimised and reliable for stock)
