@@ -11,6 +11,6 @@ This mod alters all Current RP-1 Contracts, Programmes and Newspaper to fit arou
 Currently all that has been done is the stock RP-1 contracts being converted to the Kerbol Systems counterparts (and where there isn't an counterpart I used a similar/fitting body either from the looks or size e.g. Tal from OPM)- NO NEW CONTRACTS YET (as of RP-S v1.1)
 
 
-THE MOD CAN BE DOWNLOADED FROM HERE ---> https://github.com/Waeferz/Realistic-Progression-Stock---Using-the-stock-solar-system-for-RP-1  Via The releases or the Linked Google Drive
+THE MOD CAN BE DOWNLOADED FROM HERE ---> https://github.com/Waeferz/Realistic-Progression-Stock---Using-the-stock-solar-system-for-RP-1/releases  Via The releases or the Linked Google Drive
 
 TO INSTALL, DELETE THE FOLDERS THAT ARE NAMED THE SAME AS THE FOLDERS IN THIS ZIP LOCATED IN...Steam\steamapps\common\Kerbal Space Program\GameData\RP-1 THEN COPY OVER THE FOLDERS IN THE RP-S FOLDER AND PLACE THEM IN the RP-1 FOLDER
